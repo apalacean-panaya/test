@@ -4,8 +4,8 @@
     "pub_date": "2024-04-03T09:24:53Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTHNaMnl0ZnpMK09yaURqb0RabDdLb0prdVlYL013Qm1tclhHckl4ZTJwaTFCZDJnNFRJa2o3c2ZYYXNJdUFsMGVEcjhlSmtjSG1ZOWZVb2RkdWVleGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyMTM2Mjg3CWZpbGU6QWdlbnRfMS44LjEwNF94NjRfZW4tVVMubXNpLnppcApWVVpzRngzTXk2TEtxb3dSYkR4bkhmdmYrcUdncGVXblQ1SzJxbU1rdTZCbmpEWTBHenMzN1lHM1RocXFId2pNclBvSUlIbnFOSTRBRU5PYmJrTVFDdz09Cg",
-            "url": "https://cdn.panaya.com/downloads/TestAutomation/ScriptBuilder_Prod/ScriptBuilder.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5eUI1Y2l2aTdnM1VmM0I1TlBSdTFxMFg1c0N5dVJueCsxUFk3RHBRT1djMEFBQkFBQUFBQUFBQUFBQUlBQUFBQVpqYXhQV2puVUZyOXJxVUhxSGl5STdSSGZQWjZmT3ZJVnkwaDlHQkhudTlsa096TmRTY0ZtNkN6L1dKZHBxZ0FBdVVBRisyNXRhck9uM1dqUGE2elUxQXU3OHFtRkJycld5eTBVU0JKQUVxNGFacERybzRZOXJacnRWSC9GbjUySEhqY3ZQQzNGMTQ9Cg",
+            "url": "https://cdn.panaya.com/downloads/TestAutomation/Agent_Prod/Agent.msi.zip"
         }
     }
 }
