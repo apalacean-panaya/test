@@ -1,10 +1,10 @@
 {
-  "version": "1.8.1",
-  "notes": "Version: 1.8.1",
+  "version": "1.8.2",
+  "notes": "Version: 1.8.2",
   "pub_date": "2024-04-16T11:22:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTGlycUJmZUo0ZXZGVXlWZ0tuNmYwWHJ5cmRwaTczc1AvWVBFMjJoeEh0UkhjRllFaGZVRU1rbWhYZmVaWkhCT0lxeE5QZVdUUThHR2U4SkNlT3J6TmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzMjY2NTYyCWZpbGU6QWdlbnRfMS45LjEwMl94NjRfZW4tVVMubXNpLnppcApXNFRWVzNVWmp4YkF0dXJXYUZrZzBPN0x3MnVWM1JlaVliZUpRekpRTk9McVgrUjFsM3ZIc2l1S0FiR05zTG81Zk0zaHZ3ZS9Qb0plemRGbzN6QzNEQT09Cg",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTY0hSTFduUTFZamRQVEdseWNVSm1aVW8wWlhaR1ZYbFdaMHR1Tm1Zd1dISjVjbVJ3YVRjemMxQXZXVkJGTWpKb2VFaDBVa2hqUmxsRmFHWlZSVTFyYldoWVptVmFXa2hDVDBseGVFNVFaVmRVVVRoSFIyVTRTa05sVDNKNlRtZHJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpFek1qWTJOVFl5Q1dacGJHVTZRV2RsYm5SZk1TNDVMakV3TWw5NE5qUmZaVzR0VlZNdWJYTnBMbnBwY0FwWE5GUldWek5WV21wNFlrRjBkWEpYWVVaclp6QlBOMHgzTW5WV00xSmxhVmxpWlVwUmVrcFJUazlNY1ZnclVqRnNNM1pJYzJsMVMwRmlSMDV6VEc4MVprMHphSFozWlM5UWIwcGxlbVJHYnpONlF6TkVRVDA5Q2c=",
       "url": "https://cdn.panaya.com/downloads/TestAutomation/Agent_Prod/Agent.msi.zip"
     }
   }
