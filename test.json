@@ -1,10 +1,10 @@
 {
-  "version": "1.8.4",
-  "notes": "Version: 1.8.4",
+  "version": "1.8.5",
+  "notes": "Version: 1.8.5",
   "pub_date": "2024-04-16T11:22:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTHNoV2F5dEdydVZDYnRoNWdrdHFXV1doN1BNUmg0Um40ZUdJZlBLcUtkYkp3dGt4RDA3YmFxUENrTDBHdGh6cFlLUTlkVHAzVnU5ZUF1a2dyTnFWMEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzMzU0NTg3CWZpbGU6QWdlbnRfMS42LjQwMDBfeDY0X2VuLVVTLm1zaS56aXAKdnFjRFRVeGJFeEs5K09rMkF4Z0FaUFFiMDQrc3p5WmZ3VFFnV1l3UzVHQXV6Rm85Lzg1eDZyV0tMQ0R2cmVzUXE5c2Q4dzg4eGRrZllvWWF0cVBRQlE9PQo",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTHNoV2F5dEdydVZDYnRoNWdrdHFXV1doN1BNUmg0Um40ZUdJZlBLcUtkYkp3dGt4RDA3YmFxUENrTDBHdGh6cFlLUTlkVHAzVnU5ZUF1a2dyTnFWMEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzMzU0NTg3CWZpbGU6QWdlbnRfMS42LjQwMDBfeDY0X2VuLVVTLm1zaS56aXAKdnFjRFRVeGJFeEs5K09rMkF4Z0FaUFFiMDQrc3p5WmZ3VFFnV1l3UzVHQXV6Rm85Lzg1eDZyV0tMQ0R2cmVzUXE5c2Q4dzg4eGRrZllvWWF0cVBRQlE9PQo=",
       "url": "https://cdn.panaya.com/downloads/TestAutomation/Agent_Prod/Agent.msi.zip"
     }
   }
