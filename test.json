@@ -1,10 +1,10 @@
 {
-  "version": "1.9.7",
-  "notes": "Version: 1.9.9",
-  "pub_date": "2024-04-16T11:22:49Z",
+  "version": "2.1.0",
+  "notes": "Version: 2.1.0",
+  "pub_date": "2024-07-30T08:00:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTG8rZkV6YngyU3A5U1RPSDFReENFTy91S08zZ1VzTFRNM2pSSEo0SndZR3lvQkE4cEthZG1WK0NkM3RzZUNJSThMSXl5SXNCVldiY3ZTNzdXcTZtb3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNzg1MDIxCWZpbGU6QWdlbnRfMS42LjcwMDBfeDY0X2VuLVVTLm1zaS56aXAKYWxUb1lieGRINlJ1ZFRUbThBWDc3M2NKSzB5VjNyQXJpSFhwaFZSMEs0eUpUWVM4dkhhNHhUUlNLWUN1YmF5V0RkWjdOOXdJQzQ2dXl4cFdTUyt2Qmc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTHFVckxRbXVnZkNwenlKeTgvb00wZUxXT2YzY25nQytSNG1hNEp4d2pFQThkSHRvYmIxMWJRUWxwMW1JY2tISnluU2h1Q2VTSm9XdTZwdFlhVEU5WFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIyMzI2NDI5CWZpbGU6QWdlbnRfMi4yLjExMF94NjRfZW4tVVMubXNpLnppcApXOVJzVzdaRjUreGEvaEFPS2tEdThFak5uOE5CeXhtVVRsT2ZiZVk2R0JPQ01kZXlRYUFuRGhNUTNvcXZRT09sTWFNUXU3cHFhNmRyT2NCbGJ3MVREQT09Cg==",
       "url": "https://cdn.panaya.com/downloads/TestAutomation/Agent_Prod/Agent.msi.zip"
     }
   }
