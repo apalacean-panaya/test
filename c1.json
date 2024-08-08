@@ -1,10 +1,10 @@
 {
   "script": {"version":"3.0","createdDate":"2024-Aug-08 17:51:10","uid":"3d17553f-3fec-4e85-bedf-3c1532e0e141","recordingTypes":["WEB"],"sections":[{"uid":"acde56bf-fb84-4ccc-bd5c-e0cca334632a","sectionIndex":1,"sectionTitle":"Initial Section","recordingType":[],"sectionAddedManually":false,"sectionDescriptionEdited":false,"steps":[{"uid":"2e69d74f-4e57-4ff0-8225-9efe7bccdbba","stepIndex":1,"activity":[{"uid":"db541215-cbba-4cb6-b4eb-a94460825cb9","instructionsSet":[],"instructionIndex":1,"enabled":true,"variables":[{"parameterFormat":false,"expression":false,"uid":"52db76bc-35a8-402e-98f0-4f2060668db7","name":"ParamName","type":"STRING","value":"test","isExpression":false,"editable":true,"isAutoCorrelation":false},{"parameterFormat":false,"expression":false,"uid":"23bb9949-733b-4dc0-a117-a2bef6b4f211","name":"test","type":"STRING","value":"1","isExpression":false,"editable":true,"isAutoCorrelation":false,"isConfirmedExpression":true}],"variablesBeforeCorrelation":[],"displayText":"Add parameter <{ParamName}> = {p1}","displayIndex":"0","isExecutable":true,"depthInContainer":0,"type":"PARAMETER","actionType":"DO_NOTHING","columns":[],"disabledBy":"BY_RUN","isAssignedParameterInstruction":false,"isDate":false,"isEdited":false,"isHeader":false,"isLastOnContainer":false,"isPartOfContainer":false,"originalOrder":0,"subType":"CONTEXT","errorCode":0,"errorParameters":[],"isFromEngine":false,"status":"NOT_RUN","commandType":"PARAMETER","isUserInteractionRequired":false,"isExecuteScript":false,"isWarning":false,"timeoutSeconds":10,"number":"1"}]}]}],"scriptSettings":{"dateFormat":"DD.MM.YYYY","numberDecimalSeparator":".","timeout":20,"supportedApp":"WEB"}},
           "projectId": 1,
-            "testName": 'C1',
+            "testName": "C1",
             "inputParameters": [],
             "outputParameters": [],
-            "inputParametersSetName": '',
+            "inputParametersSetName": "",
             "scriptVersion": 1,
             "readyToPlay": false
 }
