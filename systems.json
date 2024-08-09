@@ -1,0 +1,54 @@
+[
+    {
+        "projectId": 71625,
+        "projectName": "project for QAT_4496",
+        "projectDescription": null,
+        "projectManagerName": "newTester.1",
+        "creationDate": 1512296209000,
+        "startDate": 1483257600000,
+        "endDate": null,
+        "erpEtlExist": true,
+        "erpName": "TC_AUTO",
+        "erpId": 193,
+        "projectStatus": "ACTIVE"
+    },
+    {
+        "projectId": 4431,
+        "projectName": "sapOldProject1",
+        "projectDescription": null,
+        "projectManagerName": "testManagementOldOnly.qa",
+        "creationDate": 1456138182000,
+        "startDate": 1456135200000,
+        "endDate": null,
+        "erpEtlExist": false,
+        "erpName": "testManagementOldOnly1203Sys",
+        "erpId": 295,
+        "projectStatus": "UNAVAILABLE"
+    },
+    {
+        "projectId": 24736,
+        "projectName": "forReproducedProcessing",
+        "projectDescription": null,
+        "projectManagerName": "newTester.1",
+        "creationDate": 1468305264000,
+        "startDate": 1468314000000,
+        "endDate": null,
+        "erpEtlExist": true,
+        "erpName": "TC_AUTO",
+        "erpId": 193,
+        "projectStatus": "PROCESSING"
+    },
+    {
+        "projectId": 27824,
+        "projectName": "Test_Auto_Web_Recorder_Oracle_@",
+        "projectDescription": null,
+        "projectManagerName": "Tester.qa",
+        "creationDate": 1470232078000,
+        "startDate": 1470204000000,
+        "endDate": null,
+        "erpEtlExist": true,
+        "erpName": "TC_AUTO",
+        "erpId": 193,
+        "projectStatus": "FINISHED"
+    }
+]
